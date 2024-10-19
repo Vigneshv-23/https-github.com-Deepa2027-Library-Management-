@@ -1,7 +1,6 @@
-## Name:Vignesh V
-## Reg no:212223110062
+## EX:2  UML Diagrams for library management system 
 ## Aim :
-To create UML Diagrams for ATM & Banking systems using StarUML.
+To create UML Diagrams for Library management system using StarUML.
 ## USE CASE DIAGRAM
 ![Screenshot 2024-10-18 105541](https://github.com/user-attachments/assets/c023f513-c3af-481d-98de-58d88a5f5d53)
 ## CLASS DIAGRAM
